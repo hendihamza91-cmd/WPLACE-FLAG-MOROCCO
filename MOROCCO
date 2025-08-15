@@ -1,0 +1,15 @@
+# Morocco Flag + "STAY" Creative Overlay (SVG)
+
+![Morocco Flag STAY](./morocco_flag_stay.svg)
+
+This repo contains a clean SVG of the Morocco national flag (2:3 ratio) with a creative "STAY" overlay in black/red.
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <rect width="300" height="200" fill="#C1272D"/>
+  <g transform="translate(150,100)">
+    <g fill="none" stroke="#006233" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0,-50 L-40.45,-29.39 L-47.55,15.45 L40.45,-29.39 L47.55,15.45 Z"/>
+    </g>
+  </g>
+  <text x="150" y="116" text-anchor="middle" font-size="62" fill="#000000" stroke="#C1272D" stroke-width="3" font-weight="900">STAY</text>
+</svg>
